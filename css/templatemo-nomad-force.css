@@ -448,6 +448,9 @@ SONG & LYRICS
   max-width:16rem ;
   max-height: 27rem;
 }
+.bg-lyrics{
+  background-color: #2D3092;
+}
 /*--------------------------------------
 GALLERY
 ----------------------------------------*/
